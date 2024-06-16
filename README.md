@@ -37,8 +37,6 @@
 <a href="https://codepen.io/https://codepen.io/harsh-goyal-the-lessful" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/harsh-goyal-the-lessful" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/harsh-goyal-2b6062266" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harsh-goyal-2b6062266" height="30" width="40" /></a>
 <a href="https://codesandbox.com/https://codesandbox.io/u/harshgoyal2702" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="https://codesandbox.io/u/harshgoyal2702" height="30" width="40" /></a>
-<a href="https://fb.com/harsh goyal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="harsh goyal" height="30" width="40" /></a>
-<a href="https://instagram.com/harshgoyal2702" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harshgoyal2702" height="30" width="40" /></a>
 <a href="https://medium.com/@harshgoyal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@harshgoyal" height="30" width="40" /></a>
 </p>
 
