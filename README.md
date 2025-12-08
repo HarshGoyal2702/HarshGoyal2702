@@ -20,15 +20,15 @@
   
   <p> 
     
-- 🔭 I’m currently working on [College ChatGPT](https://github.com/HarshGoyal2702/Vaish-GPT)
+- 🔭 I’m currently working on My Skills and Knowledge
 
-- 🌱 I’m currently learning **Angular.js, AI**
+- 🌱 I’m currently learning **AI And Unity**
 
 - 👨‍💻 Portfolio [https://bento.me/harsh-goyal](https://bento.me/harsh-goyal)
 
 - 📝 I write articles on Medium [https://medium.com/@harshgoyal1331](https://medium.com/@harshgoyal1331)
 
-- 💬 Ask me about **MERN Stack**
+- 💬 Ask me about **Real World Problems**
 
 - 📫 How to reach me **harshgoyal1331@gmail.com**
 
